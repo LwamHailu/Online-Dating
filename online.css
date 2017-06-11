@@ -1,0 +1,44 @@
+body{
+   margin: 7%;
+}
+div{
+    display: block;
+    width:55%;
+  
+   
+}
+fieldset{
+    background-color:lavender;
+    border:2px solid gray;
+    overflow: hidden;
+    border-style:outset; 
+     border-radius: 10px;
+}
+fieldset strong{
+    float:left;
+    width:12em;
+}
+legend{
+     
+    border:3px solid black;
+     width:8em;
+    background-color: white;
+
+}
+#link1{
+    color: red;
+}
+input[type="submit"]{
+    background-color: lightcoral;
+}
+input[type="text"]{
+ position:relative;
+ right:center;
+  
+    
+}
+
+#label1{
+    color:red;
+    
+}
